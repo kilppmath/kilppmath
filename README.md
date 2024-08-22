@@ -1,5 +1,7 @@
 <div align="">
   <a href="https://github.com/kilppmath">
+     <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm matheus </h1>
+     <img align="right" width="358"src=https://media1.tenor.com/m/pR1QSS7O_zoAAAAC/jujutsu-kaisen-jjk.gif>
   <img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kilppmath&layout=compact&langs_count=7&theme=aura"/>
 </div>
 <div style="display: inline_block"><br>
