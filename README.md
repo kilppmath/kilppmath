@@ -1,6 +1,6 @@
 <div align="">
   <a href="https://github.com/kilppmath">
-  <img height="75px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kilppmath&layout=compact&langs_count=7&theme=aura"/>
+  <img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kilppmath&layout=compact&langs_count=7&theme=aura"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Matheus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
